@@ -1,5 +1,3 @@
-# patikaPlusProjects
-
 # Mayın Tarlası Oyunu
 
 - Oyun, kullanıcı tarafından belirlenen satır ve sütun sayılarına göre oynanır.
